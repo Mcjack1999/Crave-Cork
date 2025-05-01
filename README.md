@@ -23,7 +23,7 @@ The database also includes SQL views, such as one called `BestPairings`, which m
 
 #### Logical Model
 
-![Logical Model Diagram](diagrams/Logical_Model.jpg)
+![Logical Model Diagram](diagrams/logical_model.jpg)
 
 ### Who It’s For
 
