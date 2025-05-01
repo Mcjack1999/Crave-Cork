@@ -20,6 +20,10 @@ The structure of the database includes tables for users, dishes, wines, pairings
 
 The database also includes SQL views, such as one called `BestPairings`, which makes it easy to surface top-rated combinations. I implemented two SQL triggers: one to update a user's order history automatically, and another to track changes in wine pricing over time. These additions not only improve usability but also demonstrate the kind of automated logic you can build into a system like this. The logical model for the database can be found in the `/diagrams` folder, and the SQL implementation files are located in the `/sql` directory.
 
+### Logical Model
+
+![Logical Model Diagram](diagrams/Logical_Model.png)
+
 ## Who It’s For
 
 Crave & Cork was designed for a range of users. For takeout lovers, the system offers a quick and enjoyable way to find wine suggestions that elevate their meal. Wine enthusiasts can use it to discover new combinations and dig into tasting notes, varietals, and wine origins. Professionals in the wine or hospitality industry may find value in seeing how consumers are pairing their wines and identifying emerging trends in food and drink combinations.
