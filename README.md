@@ -6,7 +6,7 @@ Crave & Cork is a MySQL-based relational database designed to bring wine pairing
 
 **Tech Stack**  
 - MySQL (Relational Database)  
-- MySQL Workbench (Logical Modeling with Crow’s Foot Notation)  
+- MySQL Workbench and LucidCharts (Logical Modeling with Crow’s Foot Notation)  
 - SQL Features: Views, Triggers, Constraints, Joins
   
 ### Concept & Design
